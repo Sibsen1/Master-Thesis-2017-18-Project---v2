@@ -1,0 +1,194 @@
+Initialize engine version: 5.6.4p2 (278fc6850ee0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 755M (ID=0xfcd)
+    Vendor:   NVIDIA
+    VRAM:     1966 MB
+    Driver:   21.21.13.7892
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\Debug\TappetinaEmpathyStory_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\Debug\TappetinaEmpathyStory_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\Debug\TappetinaEmpathyStory_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\Debug\TappetinaEmpathyStory_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\Debug\TappetinaEmpathyStory_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\Debug\TappetinaEmpathyStory_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\Debug\TappetinaEmpathyStory_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\Debug\TappetinaEmpathyStory_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\Debug\TappetinaEmpathyStory_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\Debug\TappetinaEmpathyStory_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.176 seconds
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\Debug\TappetinaEmpathyStory_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\Debug\TappetinaEmpathyStory_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\Debug\TappetinaEmpathyStory_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.324440 ms
+NetworkManager awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Networkmanager starting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PrintLogger starting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at PrintLogger.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NetworkManager: ConnectToOrCreateMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager: Joining match 'Session 7344' with 1 players
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient Join :https://mm.unet.unity3d.com/json/reply/JoinMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Client Connection Established
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AudioRecorder: Using device 'Microphone (SteelSeries Siberia Elite)' (freqRange: 16000-16000)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager: Client Starting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager: Switching to scene 14 from scene 0 (current turn: -1, unloaded 0 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Starting local player (isactive: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BigStoryView: Destroying unused Person element and Traits Box
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 500 to 623.05
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkPlayer: Registered Player ID: -1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager: Switching to scene 14 from scene 14 (current turn: 0, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 500 to 623.05
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[StoryTagScript] () [0x00000] in <filename unknown>:0 
+  at BigStoryViewScript.addStoryTag (.StoryTag sTag) [0x00000] in <filename unknown>:0 
+  at StoryViewScript.onNewStoryTagAdded (.StoryTag sTag, .StoryLink sLink) [0x00000] in <filename unknown>:0 
+  at Story.addStoryTag (.StoryTag sTag, .StoryLink sLink) [0x00000] in <filename unknown>:0 
+  at GameManagerScript.RpcAddStoryTag (Int32 storyTagID, StoryLinkStruct sLink) [0x00000] in <filename unknown>:0 
+  at GameManagerScript.InvokeRpcRpcAddStoryTag (UnityEngine.Networking.NetworkBehaviour obj, UnityEngine.Networking.NetworkReader reader) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.HandleRPC (Int32 cmdHash, UnityEngine.Networking.NetworkReader reader) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.ClientScene.OnRPCMessage (UnityEngine.Networking.NetworkMessage netMsg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleReader (UnityEngine.Networking.NetworkReader reader, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleBytes (System.Byte[] buffer, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.TransportReceive (System.Byte[] bytes, Int32 numBytes, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkClient.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkClient.UpdateClients () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.UNetStaticUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+GameManager: Switching to scene 14 from scene 14 (current turn: 1, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+gObject: Story Tag Element (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StorytagElement: Story Tag Element (StoryTagScript)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+storyTagElement.enabled: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Made link: Trait Element 2 (UnityEngine.RectTransform), Story Tag Element (UnityEngine.RectTransform); Positions: (356.8, 354.2, 0.0), (149.9, 239.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 500 to 623.05
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.GameObject:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.GameObject.GetComponent[StoryTagScript] () [0x00000] in <filename unknown>:0 
+  at BigStoryViewScript.addStoryTag (.StoryTag sTag) [0x00000] in <filename unknown>:0 
+  at StoryViewScript.onNewStoryTagAdded (.StoryTag sTag, .StoryLink sLink) [0x00000] in <filename unknown>:0 
+  at Story.addStoryTag (.StoryTag sTag, .StoryLink sLink) [0x00000] in <filename unknown>:0 
+  at GameManagerScript.RpcAddStoryTag (Int32 storyTagID, StoryLinkStruct sLink) [0x00000] in <filename unknown>:0 
+  at GameManagerScript.InvokeRpcRpcAddStoryTag (UnityEngine.Networking.NetworkBehaviour obj, UnityEngine.Networking.NetworkReader reader) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.HandleRPC (Int32 cmdHash, UnityEngine.Networking.NetworkReader reader) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.ClientScene.OnRPCMessage (UnityEngine.Networking.NetworkMessage netMsg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleReader (UnityEngine.Networking.NetworkReader reader, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleBytes (System.Byte[] buffer, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.TransportReceive (System.Byte[] bytes, Int32 numBytes, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkClient.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkClient.UpdateClients () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.UNetStaticUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:52.28.11.218:9999} time {28515}, last rec time {26106} rtt {110} timeout {2000}
+ClientDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Client disconnected, retrying...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at NetworkManagerScript.OnApplicationQuit () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 65d30 -> priority: 1 
+  Thread -> id: 65d40 -> priority: 1 
+  Thread -> id: 65d48 -> priority: 1 
+  Thread -> id: 65d44 -> priority: 1 

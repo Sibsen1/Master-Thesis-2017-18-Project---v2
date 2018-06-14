@@ -1,0 +1,148 @@
+Initialize engine version: 5.6.4p2 (278fc6850ee0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 755M (ID=0xfcd)
+    Vendor:   NVIDIA
+    VRAM:     1966 MB
+    Driver:   21.21.13.7892
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.225 seconds
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.318881 ms
+NetworkManager awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Networkmanager starting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PrintLogger starting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager: ConnectToOrCreateMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager: Creating match named 'Session 6915 (ch1)' (no available matches found)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initialize engine version: 5.6.4p2 (278fc6850ee0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 755M (ID=0xfcd)
+    Vendor:   NVIDIA
+    VRAM:     1966 MB
+    Driver:   21.21.13.7892
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2\bin\TappetinaEmpathy ch1_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.350955 ms
+NetworkManager awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Networkmanager starting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PrintLogger starting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager: ConnectToOrCreateMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager: Creating match named 'Session 7756 (ch1)' (no available matches found)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at NetworkManagerScript.OnApplicationQuit () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 599c -> priority: 1 
+  Thread -> id: 542c -> priority: 1 
+  Thread -> id: 5978 -> priority: 1 
+  Thread -> id: 54e8 -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at NetworkManagerScript.OnApplicationQuit () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 5a04 -> priority: 1 
+  Thread -> id: 5a38 -> priority: 1 
+  Thread -> id: 5a4c -> priority: 1 
+  Thread -> id: 3da8 -> priority: 1 

@@ -1,0 +1,1424 @@
+Initialize engine version: 5.6.4p2 (278fc6850ee0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 755M (ID=0xfcd)
+    Vendor:   NVIDIA
+    VRAM:     1966 MB
+    Driver:   21.21.13.7892
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.443754 ms
+NetworkManager awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Networkmanager starting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PrintLogger starting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager: ConnectToOrCreateMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager: Creating match named 'Session 2738 (ch2)' (no available matches found)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Networkmanager: Starting Host
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AudioRecorder: Using device 'Microphone (SteelSeries Siberia Elite)' (freqRange: 16000-16000)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager: Switching to scene 1 from scene 0 (current turn: -1, unloaded 0 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server Starting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager: Client Starting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager: Failed loading scene 1 (already loaded)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Starting local player (isactive: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: Set active: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager: Starting registering new players
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Created logfile at C:/Users/Sibsen/AppData/LocalLow/SibsenCo/Tappetinas Empathy ch2\Log Player 0 Grp2738 2018-04-11 05.56.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.56 | Round 0 | 4/11/2018 5:56:22 AM | NetworkPlayer: Registered Player ID: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.56 | Round 0 | 4/11/2018 5:56:22 AM | GameManager (server): Registered player: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NM: Added player ID 0(addr: localClient, total players: 1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.56 | Round 0 | 4/11/2018 5:56:22 AM | Client Connection Established
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Initialize engine version: 5.6.4p2 (278fc6850ee0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 755M (ID=0xfcd)
+    Vendor:   NVIDIA
+    VRAM:     1966 MB
+    Driver:   21.21.13.7892
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.038 seconds
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Sibsen\Documents\GitHub\Master Thesis 2017-18 Project - v2 - Copy (2)\bin\TappetinaEmpathy ch2_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.509612 ms
+NetworkManager awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Networkmanager starting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PrintLogger starting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager: 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager: ConnectToOrCreateMatch
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NetworkManager: Joining match 'Session 2738 (ch2)' with 1 players
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient Join :https://mm.unet.unity3d.com/json/reply/JoinMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unable to create log file: No GameManager? (Object reference not set to an instance of an object)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Client Connection Established
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NM: Added player ID 1(addr: ::ffff:52.58.14.64, total players: 2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager Awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AudioRecorder: Using device 'Microphone (SteelSeries Siberia Elite)' (freqRange: 16000-16000)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager: Switching to scene 1 from scene 0 (current turn: -1, unloaded 0 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager: Client Starting
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager: Failed loading scene 1 (already loaded)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Starting local player (isactive: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: Set active: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager: Starting registering new players
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.56 | Round 0 | 4/11/2018 5:56:31 AM | NetworkPlayer: Registered Player ID: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.56 | Round 0 | 4/11/2018 5:56:31 AM | GameManager (server): Registered player: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Created logfile at C:/Users/Sibsen/AppData/LocalLow/SibsenCo/Tappetinas Empathy ch2\Log Player 0 Grp2738 2018-04-11 05.56.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.56 | Round 0 | 4/11/2018 5:56:31 AM | NetworkPlayer: Registered Player ID: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NM: Added player ID 2(addr: ::ffff:52.58.14.64, total players: 3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: Set active: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager: Starting registering new players
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.56 | Round 0 | 4/11/2018 5:56:43 AM | NetworkPlayer: Registered Player ID: -1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.56 | Round 0 | 4/11/2018 5:56:43 AM | GameManager (server): Registered player: -1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Created logfile at C:/Users/Sibsen/AppData/LocalLow/SibsenCo/Tappetinas Empathy ch2\Log Player 1 Grp2738 2018-04-11 05.56.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.56 | Round 0 | 4/11/2018 5:56:44 AM | NetworkPlayer: Registered Player ID: -1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 0 | 4/11/2018 5:58:19 AM | EventSystem: Going to next scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 0 | 4/11/2018 5:58:19 AM | GameManager: Starting game as player 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 0 | 4/11/2018 5:58:19 AM | Starting audio recording
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 0 | 4/11/2018 5:58:19 AM | GameManager: Switching to scene 2 from scene 1 (current turn: -1, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CharSelectSystem: personlist: System.Collections.Generic.List`1[Person]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 0 | 4/11/2018 5:58:20 AM | EventSystem: Going to next scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 0 | 4/11/2018 5:58:20 AM | GameManager: Switching to waiting screen (currentPlayer: 0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 0 | 4/11/2018 5:58:20 AM | GameManager: Switching to scene 9 from scene 1 (current turn: -1, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Converting person for transmission
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Server: Setting person
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 0 | 4/11/2018 5:58:21 AM | CharSelectSystem: New character selected: The assistant manager
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 0 | 4/11/2018 5:58:21 AM | EventSystem: Going to next scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 0 | 4/11/2018 5:58:21 AM | GameManager: Switching to scene 3 from scene 2 (current turn: -1, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 0 | 4/11/2018 5:58:23 AM | EventSystem: Going to next scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 0 | 4/11/2018 5:58:23 AM | GameManager: Switching to scene 4 from scene 3 (current turn: -1, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Destroying finish button
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:25 AM | GameManager (client): Next turn; player: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:25 AM | Ending audio recording
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:25 AM | End 0.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:25 AM | Saving 1 recordings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:25 AM | Saving audio recording in path: C:/Users/Sibsen/AppData/LocalLow/SibsenCo/Tappetinas Empathy ch2\AudioLog Player 0 Grp2738 2018-04-11 05.58 Turn -1.wav
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:25 AM | GameManager: Starting new turn (scene: 4, current player: 1, local player: 0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:25 AM | GameManager: Switching to waiting screen (currentPlayer: 1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:25 AM | GameManager: Switching to scene 9 from scene 4 (current turn: 0, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:25 AM | GameManager (server): Next turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:25 AM | GameManager (client): Next turn; player: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:25 AM | Saving 0 recordings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:25 AM | GameManager: Starting new turn (scene: 9, current player: 1, local player: 1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:25 AM | Starting audio recording
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:25 AM | GameManager: Switching to scene 5 from scene 9 (current turn: 0, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Destroying finish button
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:34 AM | EventSystem: Going to next scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:34 AM | GameManager: Switching to scene 6 from scene 5 (current turn: 0, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:34 AM | StoryTag Select: Options: 'angry', 'sad', 'panicked'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:35 AM | selected story tag:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:35 AM | panicked
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:36 AM | EventSystem: Going to next scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:36 AM | GameManager: Switching to scene 7 from scene 6 (current turn: 0, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 500 to 378.515
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:37 AM | Attached link to trait: 'Has a drinking problem'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(201.3, 209.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:38 AM | Attached link to trait: 'Works in a hotel'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(201.3, 321.5, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Converting storytag for transmission
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rerouting adding story tag to local player command
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:39 AM | EventSystem: Going to next scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:39 AM | GameManager: Switching to scene 8 from scene 7 (current turn: 0, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CmdAddStoryTag
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 500 to 378.515
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[RectTransform] () [0x00000] in <filename unknown>:0 
+  at StoryViewScript.autofitContentField () [0x00000] in <filename unknown>:0 
+  at StoryViewScript.addStoryTag (.StoryTag sTag) [0x00000] in <filename unknown>:0 
+  at StoryViewScript.onNewStoryTagAdded (.StoryTag sTag, .StoryLink sLink) [0x00000] in <filename unknown>:0 
+  at Story.addStoryTag (.StoryTag sTag, .StoryLink sLink) [0x00000] in <filename unknown>:0 
+  at GameManagerScript.RpcAddStoryTag (Int32 storyTagID, StoryLinkStruct sLink) [0x00000] in <filename unknown>:0 
+  at GameManagerScript.InvokeRpcRpcAddStoryTag (UnityEngine.Networking.NetworkBehaviour obj, UnityEngine.Networking.NetworkReader reader) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.HandleRPC (Int32 cmdHash, UnityEngine.Networking.NetworkReader reader) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.ClientScene.OnRPCMessage (UnityEngine.Networking.NetworkMessage netMsg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleReader (UnityEngine.Networking.NetworkReader reader, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleBytes (System.Byte[] buffer, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.TransportReceive (System.Byte[] bytes, Int32 numBytes, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkClient.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkClient.UpdateClients () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.UNetStaticUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Destroying finish button
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:40 AM | GameManager (client): Ended turn as player 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:40 AM | NetworkPlayer: Going to next turn/player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:40 AM | GameManager (client): Next turn; player: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:41 AM | Saving 0 recordings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:41 AM | GameManager: Starting new turn (scene: 9, current player: 0, local player: 0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:41 AM | Starting audio recording
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:41 AM | GameManager: Switching to scene 5 from scene 9 (current turn: 1, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:41 AM | GameManager (server): Next turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:41 AM | GameManager (client): Next turn; player: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:41 AM | Ending audio recording
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:41 AM | End 0.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:41 AM | Saving 1 recordings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:41 AM | Saving audio recording in path: C:/Users/Sibsen/AppData/LocalLow/SibsenCo/Tappetinas Empathy ch2\AudioLog Player 1 Grp2738 2018-04-11 05.58 Turn 0.wav
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:41 AM | GameManager: Starting new turn (scene: 8, current player: 0, local player: 1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:41 AM | GameManager: Switching to waiting screen (currentPlayer: 0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:41 AM | GameManager: Switching to scene 9 from scene 8 (current turn: 1, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Destroying finish button
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:45 AM | EventSystem: Going to next scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:45 AM | GameManager: Switching to scene 6 from scene 5 (current turn: 1, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:45 AM | StoryTag Select: Options: 'satisfied', 'hope', 'joy'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:47 AM | selected story tag:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:47 AM | satisfied
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:47 AM | EventSystem: Going to next scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:47 AM | GameManager: Switching to scene 7 from scene 6 (current turn: 1, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 500 to 438.35
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Made link: Link Anchor (UnityEngine.RectTransform), Link Anchor(Clone) (UnityEngine.RectTransform); Positions: (394.5, 321.5, 0.0), (473.6, 261.9, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 438.35 to 438.35
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:49 AM | Attached link to storyTag: 'panicked'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:52 AM | Attached link to trait: 'Has a drinking problem'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(124.7, 209.8, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Converting storytag for transmission
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding storyTag
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:53 AM | EventSystem: Going to next scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.58 | Round 1 | 4/11/2018 5:58:53 AM | GameManager: Switching to scene 8 from scene 7 (current turn: 1, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 438.35 to 547.71
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Made link: Trait Element 3 (UnityEngine.RectTransform), Story Tag Element(Clone) (UnityEngine.RectTransform); Positions: (124.7, 209.8, 0.0), (503.1, 312.5, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 500 to 438.35
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 438.35 to 547.71
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Made link: Trait Element 1 (UnityEngine.RectTransform), Story Tag Element(Clone) (UnityEngine.RectTransform); Positions: (272.3, 415.9, 0.0), (548.1, 391.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Made link: Trait Element 3 (UnityEngine.RectTransform), Story Tag Element(Clone) (UnityEngine.RectTransform); Positions: (272.3, 359.1, 0.0), (710.1, 391.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 547.71 to 547.71
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[RectTransform] () [0x00000] in <filename unknown>:0 
+  at StoryViewScript.autofitContentField () [0x00000] in <filename unknown>:0 
+  at StoryViewScript.addStoryTag (.StoryTag sTag) [0x00000] in <filename unknown>:0 
+  at StoryViewScript.onNewStoryTagAdded (.StoryTag sTag, .StoryLink sLink) [0x00000] in <filename unknown>:0 
+  at Story.addStoryTag (.StoryTag sTag, .StoryLink sLink) [0x00000] in <filename unknown>:0 
+  at GameManagerScript.RpcAddStoryTag (Int32 storyTagID, StoryLinkStruct sLink) [0x00000] in <filename unknown>:0 
+  at GameManagerScript.InvokeRpcRpcAddStoryTag (UnityEngine.Networking.NetworkBehaviour obj, UnityEngine.Networking.NetworkReader reader) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.HandleRPC (Int32 cmdHash, UnityEngine.Networking.NetworkReader reader) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.ClientScene.OnRPCMessage (UnityEngine.Networking.NetworkMessage netMsg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleReader (UnityEngine.Networking.NetworkReader reader, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleBytes (System.Byte[] buffer, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.TransportReceive (System.Byte[] bytes, Int32 numBytes, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkClient.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkClient.UpdateClients () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.UNetStaticUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Destroying finish button
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:03 AM | GameManager (client): Next turn; player: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:03 AM | Ending audio recording
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:03 AM | End 0.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:03 AM | Saving 1 recordings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:03 AM | Saving audio recording in path: C:/Users/Sibsen/AppData/LocalLow/SibsenCo/Tappetinas Empathy ch2\AudioLog Player 0 Grp2738 2018-04-11 05.58 Turn 1.wav
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:04 AM | GameManager: Starting new turn (scene: 8, current player: 1, local player: 0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:04 AM | GameManager: Switching to waiting screen (currentPlayer: 1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:04 AM | GameManager: Switching to scene 9 from scene 8 (current turn: 2, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:04 AM | GameManager (server): Next turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:04 AM | GameManager (client): Next turn; player: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:04 AM | Saving 0 recordings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:04 AM | GameManager: Starting new turn (scene: 9, current player: 1, local player: 1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:04 AM | Starting audio recording
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:04 AM | GameManager: Switching to scene 5 from scene 9 (current turn: 2, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Destroying finish button
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:06 AM | EventSystem: Going to next scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:06 AM | GameManager: Switching to scene 6 from scene 5 (current turn: 2, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:06 AM | StoryTag Select: Options: 'joy', 'hope', 'energetic'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:10 AM | selected story tag:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:10 AM | joy
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:10 AM | EventSystem: Going to next scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:10 AM | GameManager: Switching to scene 7 from scene 6 (current turn: 2, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 500 to 438.35
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 438.35 to 547.71
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Made link: Link Anchor (UnityEngine.RectTransform), Link Anchor(Clone) (UnityEngine.RectTransform); Positions: (394.5, 321.5, 0.0), (473.6, 261.9, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Made link: Link Anchor (2) (UnityEngine.RectTransform), Link Anchor(Clone) (UnityEngine.RectTransform); Positions: (394.5, 209.8, 0.0), (613.6, 261.9, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 547.71 to 547.71
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:11 AM | Attached link to storyTag: 'panicked'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Converting storytag for transmission
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Rerouting adding story tag to local player command
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:12 AM | EventSystem: Going to next scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:12 AM | GameManager: Switching to scene 8 from scene 7 (current turn: 2, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 500 to 438.35
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 438.35 to 547.71
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Made link: Trait Element 1 (UnityEngine.RectTransform), Story Tag Element(Clone) (UnityEngine.RectTransform); Positions: (272.3, 415.9, 0.0), (548.1, 391.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Made link: Trait Element 3 (UnityEngine.RectTransform), Story Tag Element(Clone) (UnityEngine.RectTransform); Positions: (272.3, 359.1, 0.0), (710.1, 391.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 547.71 to 547.71
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CmdAddStoryTag
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[RectTransform] () [0x00000] in <filename unknown>:0 
+  at StoryViewScript.autofitContentField () [0x00000] in <filename unknown>:0 
+  at StoryViewScript.addStoryTag (.StoryTag sTag) [0x00000] in <filename unknown>:0 
+  at StoryViewScript.onNewStoryTagAdded (.StoryTag sTag, .StoryLink sLink) [0x00000] in <filename unknown>:0 
+  at Story.addStoryTag (.StoryTag sTag, .StoryLink sLink) [0x00000] in <filename unknown>:0 
+  at GameManagerScript.RpcAddStoryTag (Int32 storyTagID, StoryLinkStruct sLink) [0x00000] in <filename unknown>:0 
+  at GameManagerScript.InvokeRpcRpcAddStoryTag (UnityEngine.Networking.NetworkBehaviour obj, UnityEngine.Networking.NetworkReader reader) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.HandleRPC (Int32 cmdHash, UnityEngine.Networking.NetworkReader reader) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.ClientScene.OnRPCMessage (UnityEngine.Networking.NetworkMessage netMsg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.InvokeHandler (UnityEngine.Networking.NetworkMessage netMsg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.LocalClient.ProcessInternalMessages () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.LocalClient.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkClient.UpdateClients () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.UNetStaticUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[RectTransform] () [0x00000] in <filename unknown>:0 
+  at StoryViewScript.autofitContentField () [0x00000] in <filename unknown>:0 
+  at StoryViewScript.addStoryTag (.StoryTag sTag) [0x00000] in <filename unknown>:0 
+  at StoryViewScript.onNewStoryTagAdded (.StoryTag sTag, .StoryLink sLink) [0x00000] in <filename unknown>:0 
+  at Story.addStoryTag (.StoryTag sTag, .StoryLink sLink) [0x00000] in <filename unknown>:0 
+  at GameManagerScript.RpcAddStoryTag (Int32 storyTagID, StoryLinkStruct sLink) [0x00000] in <filename unknown>:0 
+  at GameManagerScript.InvokeRpcRpcAddStoryTag (UnityEngine.Networking.NetworkBehaviour obj, UnityEngine.Networking.NetworkReader reader) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.HandleRPC (Int32 cmdHash, UnityEngine.Networking.NetworkReader reader) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.ClientScene.OnRPCMessage (UnityEngine.Networking.NetworkMessage netMsg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleReader (UnityEngine.Networking.NetworkReader reader, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleBytes (System.Byte[] buffer, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.TransportReceive (System.Byte[] bytes, Int32 numBytes, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkClient.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkClient.UpdateClients () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.UNetStaticUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Destroying finish button
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:14 AM | GameManager (client): Ended turn as player 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:14 AM | NetworkPlayer: Going to next turn/player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:14 AM | GameManager (client): Next turn; player: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:14 AM | Saving 0 recordings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:14 AM | GameManager: Starting new turn (scene: 9, current player: 0, local player: 0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:14 AM | Starting audio recording
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:14 AM | GameManager: Switching to scene 5 from scene 9 (current turn: 3, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:14 AM | GameManager (server): Next turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:14 AM | GameManager (client): Next turn; player: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:14 AM | Ending audio recording
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:14 AM | End 0.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:14 AM | Saving 1 recordings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:14 AM | Saving audio recording in path: C:/Users/Sibsen/AppData/LocalLow/SibsenCo/Tappetinas Empathy ch2\AudioLog Player 1 Grp2738 2018-04-11 05.59 Turn 2.wav
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:15 AM | GameManager: Starting new turn (scene: 8, current player: 0, local player: 1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:15 AM | GameManager: Switching to waiting screen (currentPlayer: 0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:15 AM | GameManager: Switching to scene 9 from scene 8 (current turn: 3, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Destroying finish button
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:19 AM | EventSystem: Going to next scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:20 AM | GameManager: Switching to scene 6 from scene 5 (current turn: 3, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:20 AM | StoryTag Select: Options: 'hopeless', 'bored', 'afraid'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:21 AM | selected story tag:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:21 AM | afraid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:21 AM | EventSystem: Going to next scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:21 AM | GameManager: Switching to scene 7 from scene 6 (current turn: 3, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 500 to 438.35
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 438.35 to 547.71
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 547.71 to 657.0699
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Made link: Link Anchor (UnityEngine.RectTransform), Link Anchor(Clone) (UnityEngine.RectTransform); Positions: (394.5, 321.5, 0.0), (473.6, 261.9, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Made link: Link Anchor (2) (UnityEngine.RectTransform), Link Anchor(Clone) (UnityEngine.RectTransform); Positions: (394.5, 209.8, 0.0), (613.6, 261.9, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Made link: Link Anchor(Clone) (UnityEngine.RectTransform), Link Anchor(Clone) (UnityEngine.RectTransform); Positions: (473.6, 261.9, 0.0), (753.6, 261.9, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 657.0699 to 657.0699
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:23 AM | Attached link to storyTag: 'joy'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Converting storytag for transmission
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding storyTag
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:24 AM | EventSystem: Going to next scene
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:24 AM | GameManager: Switching to scene 8 from scene 7 (current turn: 3, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[RectTransform] () [0x00000] in <filename unknown>:0 
+  at StoryViewScript.autofitContentField () [0x00000] in <filename unknown>:0 
+  at StoryViewScript.addStoryTag (.StoryTag sTag) [0x00000] in <filename unknown>:0 
+  at StoryViewScript.onNewStoryTagAdded (.StoryTag sTag, .StoryLink sLink) [0x00000] in <filename unknown>:0 
+  at Story.addStoryTag (.StoryTag sTag, .StoryLink sLink) [0x00000] in <filename unknown>:0 
+  at GameManagerScript.RpcAddStoryTag (Int32 storyTagID, StoryLinkStruct sLink) [0x00000] in <filename unknown>:0 
+  at GameManagerScript.InvokeRpcRpcAddStoryTag (UnityEngine.Networking.NetworkBehaviour obj, UnityEngine.Networking.NetworkReader reader) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.HandleRPC (Int32 cmdHash, UnityEngine.Networking.NetworkReader reader) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.ClientScene.OnRPCMessage (UnityEngine.Networking.NetworkMessage netMsg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.InvokeHandler (UnityEngine.Networking.NetworkMessage netMsg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.LocalClient.ProcessInternalMessages () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.LocalClient.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkClient.UpdateClients () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.UNetStaticUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+StoryView: Autofitting, changing size from 500 to 438.35
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 438.35 to 547.71
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 547.71 to 657.0699
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 657.0699 to 766.43
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Made link: Trait Element 1 (UnityEngine.RectTransform), Story Tag Element(Clone) (UnityEngine.RectTransform); Positions: (272.3, 415.9, 0.0), (548.1, 391.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Made link: Trait Element 3 (UnityEngine.RectTransform), Story Tag Element(Clone) (UnityEngine.RectTransform); Positions: (272.3, 359.1, 0.0), (710.1, 391.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Made link: Story Tag Element(Clone) (UnityEngine.RectTransform), Story Tag Element(Clone) (UnityEngine.RectTransform); Positions: (548.1, 391.1, 0.0), (872.1, 391.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Made link: Story Tag Element(Clone) (UnityEngine.RectTransform), Story Tag Element(Clone) (UnityEngine.RectTransform); Positions: (872.1, 391.1, 0.0), (1034.1, 391.1, 0.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StoryView: Autofitting, changing size from 766.43 to 766.43
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:GetComponentFastPath (System.Type,intptr)
+  at UnityEngine.Component.GetComponent[RectTransform] () [0x00000] in <filename unknown>:0 
+  at StoryViewScript.autofitContentField () [0x00000] in <filename unknown>:0 
+  at StoryViewScript.addStoryTag (.StoryTag sTag) [0x00000] in <filename unknown>:0 
+  at StoryViewScript.onNewStoryTagAdded (.StoryTag sTag, .StoryLink sLink) [0x00000] in <filename unknown>:0 
+  at Story.addStoryTag (.StoryTag sTag, .StoryLink sLink) [0x00000] in <filename unknown>:0 
+  at GameManagerScript.RpcAddStoryTag (Int32 storyTagID, StoryLinkStruct sLink) [0x00000] in <filename unknown>:0 
+  at GameManagerScript.InvokeRpcRpcAddStoryTag (UnityEngine.Networking.NetworkBehaviour obj, UnityEngine.Networking.NetworkReader reader) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.HandleRPC (Int32 cmdHash, UnityEngine.Networking.NetworkReader reader) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.ClientScene.OnRPCMessage (UnityEngine.Networking.NetworkMessage netMsg) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleReader (UnityEngine.Networking.NetworkReader reader, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.HandleBytes (System.Byte[] buffer, Int32 receivedSize, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkConnection.TransportReceive (System.Byte[] bytes, Int32 numBytes, Int32 channelId) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkClient.Update () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkClient.UpdateClients () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.UNetStaticUpdate () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Destroying finish button
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:25 AM | GameManager (client): Next turn; player: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:25 AM | Ending audio recording
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:25 AM | Saving 1 recordings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:25 AM | Saving audio recording in path: C:/Users/Sibsen/AppData/LocalLow/SibsenCo/Tappetinas Empathy ch2\AudioLog Player 0 Grp2738 2018-04-11 05.59 Turn 3.wav
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:34 AM | GameManager: Ending game (turnsplayed: 4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:34 AM | GameManager (server): Next turn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:34 AM | Story:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:34 AM |  Person: The assistant manager
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:34 AM | Story:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:34 AM |  StoryTags:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:34 AM |  Person: The assistant manager
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:34 AM |   1. 'panicked'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:34 AM |  StoryTags:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:34 AM |   2. 'satisfied'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:34 AM |   1. 'panicked'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:34 AM |   3. 'joy'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:34 AM |   2. 'satisfied'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:34 AM |   3. 'joy'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:34 AM |   4. 'afraid'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:34 AM |   4. 'afraid'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:34 AM |  StoryLinks:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:34 AM |  StoryLinks:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:34 AM |   1. Trait 'Works in a hotel' to sTag 'panicked'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:34 AM |   1. Trait 'Works in a hotel' to sTag 'panicked'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:34 AM |   2. Trait 'Has a drinking problem' to sTag 'satisfied'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:34 AM |   2. Trait 'Has a drinking problem' to sTag 'satisfied'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:34 AM |   3. sTag 'panicked' to sTag 'joy'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:34 AM |   4. sTag 'joy' to sTag 'afraid'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:34 AM |   3. sTag 'panicked' to sTag 'joy'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:34 AM | GameManager: Switching to scene 13 from scene 8 (current turn: 4, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:34 AM |   4. sTag 'joy' to sTag 'afraid'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 2 | 4/11/2018 5:59:34 AM | GameManager: Switching to scene 13 from scene 9 (current turn: 3, unloaded 1 scenes)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM | GameManager (client): Next turn; player: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM | Saving 0 recordings
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM | GameManager: Ending game (turnsplayed: 4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CmdEndGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM | Story:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |  Person: The assistant manager
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM | Story:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |  StoryTags:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |  Person: The assistant manager
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |   1. 'panicked'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |  StoryTags:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |   2. 'satisfied'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |   1. 'panicked'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |   3. 'joy'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |   2. 'satisfied'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |   4. 'afraid'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |   3. 'joy'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |  StoryLinks:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |   4. 'afraid'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |   1. Trait 'Works in a hotel' to sTag 'panicked'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |  StoryLinks:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |   1. Trait 'Works in a hotel' to sTag 'panicked'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |   2. Trait 'Has a drinking problem' to sTag 'satisfied'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |   2. Trait 'Has a drinking problem' to sTag 'satisfied'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |   3. sTag 'panicked' to sTag 'joy'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |   3. sTag 'panicked' to sTag 'joy'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |   4. sTag 'joy' to sTag 'afraid'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM |   4. sTag 'joy' to sTag 'afraid'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM | GameManager: Failed loading scene 13 (already loaded)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:37 AM | GameManager: Failed loading scene 13 (already loaded)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager: Starting registering new players
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 1 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:40 AM | GameManager (server): Registered player: -1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Created logfile at C:/Users/Sibsen/AppData/LocalLow/SibsenCo/Tappetinas Empathy ch2\Log Player 0 Grp2738 2018-04-11 05.59.txt
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:40 AM | GameManager (server): Registered player: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:40 AM | GameManager (server): Registered player: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 75aec -> priority: 1 
+  Thread -> id: 75b20 -> priority: 1 
+  Thread -> id: 75b10 -> priority: 1 
+  Thread -> id: 75b04 -> priority: 1 
+MatchMakingClient Destroy :https://mm.unet.unity3d.com/json/reply/DestroyMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player 0 Grp2738 2018-04-11 05.59 | Round 3 | 4/11/2018 5:59:41 AM | NetworkManager: Application quit with client as host; destroying room
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MatchMakingClient DropConnection :https://mm.unet.unity3d.com/json/reply/DropConnectionRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameManager: Starting registering new players
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 75bd8 -> priority: 1 
+  Thread -> id: 75bf8 -> priority: 1 
+  Thread -> id: 75be0 -> priority: 1 
+  Thread -> id: 75be8 -> priority: 1 
